@@ -1,0 +1,177 @@
+img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.header {
+    background: black;
+    padding-top: 27px;
+}
+.header-body{
+    max-width: 1190px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.logo{
+    padding-right: 163px;
+}
+.main-nav {
+    display: flex;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.main-nav li {
+    margin-right: 20px;
+}
+.main-nav li a {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.items{
+    display: flex;
+}
+.items li a{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    padding-right: 20px;
+    text-decoration: none;
+}
+.pik{
+    padding: 88px 0 34px;
+    background-image: url('../images/Rectangle 12 1.png');
+}
+.container{
+    max-width: 1190px;
+    margin:0 auto
+}
+.title{
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-top: 0
+}
+.discount{
+    background: #FFFFFF;
+    opacity: 0.9;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    padding: 37px 33px 34px 38px;
+    display: flex; align-items: center;
+    box-sizing: border-box;
+    max-width: 512px;
+    margin-bottom: 99px;
+}
+.project{
+    align-items: center;
+}
+.project a{
+    color: #FFFFFF;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #4C6071 0%, #55BDEA 100%);
+    box-shadow: 0 0 166px rgba(0, 0, 0, 0.2), 8px 8px 109px rgba(0, 0, 0, 0.05);
+    margin-top: 34px;
+    padding: 20px 49px;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.img{
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-top: 260px;
+    padding-bottom: 160px;
+    background-image: url('../images/Gro.svg');
+    background-size: 100%;
+
+}
+.wrap{
+    width: 100%;
+    display: flex;
+}
+.inner{
+    width: 50%;
+    padding-left: 165px;
+    padding-right: 120px;
+}
+.subtitle{
+    padding-bottom: 60px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.desc{
+    font-size: 20px;
+    font-weight: 300;
+}
+.bathroom{
+    width: 50%
+}
+.picture {
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 297px;
+    padding-bottom: 200px;
+    background-image: url('../images/Gro.svg');
+}
+.wrapper{
+    display: flex;
+    max-width: 1190px;
+    margin: 0 auto;
+}
+.box{
+    padding-right: 86px;
+    max-width: 410px;
+}
+.caption{
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.holder {
+    padding-bottom: 20px;
+}
+.holder input{
+    font-size: 16px;
+    height: 29px;
+    padding: 0; line-height: 24px;
+    display: block; width: 100%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: solid black 1px;
+}
+.comments{
+    resize: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid black 1px;
+    height: 29px; padding: 0;
+    line-height: 24px;
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+.btn{
+    border-radius: 10px;
+    border: none;
+    padding: 20px 51px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: linear-gradient(90deg, #4C6071 0%, #55BDEA 100%); box-shadow: 8px 8px 109px rgba(0, 0, 0, 0.05)
+}
+.foto{
+    justify-content: space-between;
+    margin: 0 auto;
+}
